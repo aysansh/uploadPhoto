@@ -1,0 +1,14 @@
+.flex-line{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    flex-wrap: wrap;
+
+}
+.flex-justify-between{
+    justify-content: space-between;
+}
+.container{
+    width: 90%;
+    margin:2rem auto;
+}
